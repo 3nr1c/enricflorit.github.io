@@ -4,9 +4,11 @@
 	margin: 0px auto;
 	padding-bottom: 40px;
 }
+
 .center {
 	text-align: center;
 }
+
 .profile-pic {
 	width: 100px;
 	height: 100px;
@@ -15,6 +17,6 @@
 	border:2px gray solid;
 }
 
-li:not(last-child) {
+#materials li:not(:last-child) {
 	margin-bottom: 20px;
 }
