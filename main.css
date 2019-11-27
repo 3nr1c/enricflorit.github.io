@@ -17,6 +17,6 @@
 	border:2px gray solid;
 }
 
-#materials li:not(:last-child) {
-	margin-bottom: 20px;
+#materials li:not(:first-child) {
+	margin-top: 20px;
 }
