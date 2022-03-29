@@ -21,7 +21,7 @@
 	border:2px gray solid;
 }
 
-#materials li:not(:first-child), #preprints li:not(:first-child) {
+#materials li:not(:first-child), #publications li:not(:first-child) {
 	margin-top: 20px;
 }
 
