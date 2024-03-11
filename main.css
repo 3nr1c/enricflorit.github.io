@@ -21,8 +21,8 @@
 	border:2px gray solid;
 }
 
-#materials li:not(:first-child), #publications li:not(:first-child) {
-	margin-top: 20px;
+li:not(:first-child) {
+	margin-top: 25px;
 }
 
 li p {
