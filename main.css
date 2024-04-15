@@ -21,8 +21,12 @@
 	border:2px gray solid;
 }
 
-li:not(:first-child) {
-	margin-top: 25px;
+li details {
+	margin-bottom: 1em;
+}
+
+li details p {
+	margin-bottom: 1em;
 }
 
 li p {
