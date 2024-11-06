@@ -1,0 +1,26 @@
+Useful & personal resources
+
+MO posts:
+- When is the tensor product of two fields a field? https://mathoverflow.net/questions/82083/when-is-the-tensor-product-of-two-fields-a-field
+
+Group schemes:
+- Raynaud's paper http://www.numdam.org/article/BSMF_1974__102__241_0.pdf
+
+GL(2) reps
+- Serre, Proprietés galoisiennes https://www.wstein.org/sage_summer/bsd_comp/Serre-properties_galoisiennes_des_points_dordre_fini_des_courbes_elliptiques.pdf
+- Sutherland, computing images https://arxiv.org/pdf/1504.07618.pdf
+- Sengun, Sikses, Asysmptotic FLT https://arxiv.org/pdf/1609.04458.pdf
+- Larson, Vaintrob, On the surjectivity of galreps associated to elliptic curves over number fields https://arxiv.org/pdf/1204.0046.pdf
+
+Abelian varieties:
+- Zywina, Splitting of reductions of abelian varieties https://pi.math.cornell.edu/~zywina/papers/Splitting.pdf
+
+Isogeny theorems
+- Philippe Michaud-Jacobs, Survey on Mazur's work https://arxiv.org/pdf/2209.03153.pdf
+
+Complex Multiplication
+- Marco Streng's thesis on CM surfaces https://www.sagemath.org/files/thesis/streng-thesis-2010.pdf
+- Larson, Vaintrob, Determinants of subquotients of galois reps https://arxiv.org/pdf/1110.0255.pdf
+
+Background
+- Boston, The proof of FLT https://people.math.wisc.edu/~nboston/869.pdf
